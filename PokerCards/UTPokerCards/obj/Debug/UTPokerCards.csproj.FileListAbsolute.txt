@@ -1,0 +1,7 @@
+C:\Github\PokerCards\PokerCards\UTPokerCards\obj\Debug\UTPokerCards.csprojResolveAssemblyReference.cache
+C:\Github\PokerCards\PokerCards\UTPokerCards\bin\Debug\UTPokerCards.dll
+C:\Github\PokerCards\PokerCards\UTPokerCards\bin\Debug\UTPokerCards.pdb
+C:\Github\PokerCards\PokerCards\UTPokerCards\bin\Debug\PokerCards.dll
+C:\Github\PokerCards\PokerCards\UTPokerCards\bin\Debug\PokerCards.pdb
+C:\Github\PokerCards\PokerCards\UTPokerCards\obj\Debug\UTPokerCards.dll
+C:\Github\PokerCards\PokerCards\UTPokerCards\obj\Debug\UTPokerCards.pdb

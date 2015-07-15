@@ -1,0 +1,5 @@
+C:\Github\PokerCards\PokerCards\PokerCards\obj\Debug\PokerCards.csprojResolveAssemblyReference.cache
+C:\Github\PokerCards\PokerCards\PokerCards\bin\Debug\PokerCards.dll
+C:\Github\PokerCards\PokerCards\PokerCards\bin\Debug\PokerCards.pdb
+C:\Github\PokerCards\PokerCards\PokerCards\obj\Debug\PokerCards.dll
+C:\Github\PokerCards\PokerCards\PokerCards\obj\Debug\PokerCards.pdb
